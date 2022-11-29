@@ -38,12 +38,13 @@
 
 # 👀 Demo Website
 
-👉  Demo: https://app-notemarkdown.com.br/
+👉  Demo: https://notemarkdown.com.br/
 
 # 💻 Technologies
 
 This project was made using the follow technologies:
 
+* Vite
 * ReactJS
 * React-MD-Editor
 
